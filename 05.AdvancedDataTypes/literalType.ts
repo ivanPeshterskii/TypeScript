@@ -1,0 +1,1 @@
+let gradeToPass: number = 5 | 6;
